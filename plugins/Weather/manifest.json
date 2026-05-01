@@ -1,6 +1,6 @@
 {
     "name": "Weather",
-    "description": "a plugin that adds a /weather command to get the weather",
+    "description": "a plugin that adds a /weather command to get the weather of a city",
     "authors": [
         {
             "name": "zgoldenknight",
