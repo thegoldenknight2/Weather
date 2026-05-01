@@ -1,0 +1,14 @@
+{
+    "name": "Weather",
+    "description": "a plugin that adds a /weather command to get the weather",
+    "authors": [
+        {
+            "name": "zgoldenknight",
+            "id": "1337477888139726889"
+        }
+    ],
+    "main": "index.ts",
+    "vendetta": {
+        "icon": "img_clouds_header_tier_2"
+    }
+}
